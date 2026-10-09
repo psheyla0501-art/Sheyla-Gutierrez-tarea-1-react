@@ -1,0 +1,19 @@
+
+TAREA 1: LISTA DE USUARIOS CON USERCARD
+
+
+Nombre: Sheyla Gutiérrez Pérez 
+Grupo : 401
+Fecha: 8/10/26
+Asignatura: Optativa de React
+
+Descripción:
+Proyecto en React que muestra una lista de usuarios usando
+componentes funcionales, props, renderizado con .map(),
+key, y renderizado condicional.
+
+Contenido:
+- src/App.jsx       → Contiene los datos y el componente raíz.
+- src/UserList.jsx  → Recorre el array con .map() y crea UserCards.
+- src/UserCard.jsx  → Muestra un usuario con su estado.
+- src/App.css       → Estilos, incluyendo fondo gris para inactivos.
